@@ -2,65 +2,61 @@
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-Latest visit data date: 2023-11-20
-Previous visit data date: 2023-11-18
-
-## Top 10 Custom GPTs
-
-| ID        | Slug          | Creator               |   Prev_Visits |   Visits |   perc_inc |
-|:----------|:--------------|:----------------------|--------------:|---------:|-----------:|
-| alKfVrz9K | canva         | Canva                 |        186950 |   204772 |          9 |
-| n7Rs0IK86 | grimoire      | mindgoblinstudios.com |        128062 |   146866 |         14 |
-| bo0FiWLY7 | researchgpt   | consensus.app         |         98147 |   134171 |         36 |
-| 2Eo3NxuS7 | designergpt   | Pietro Schirano       |         95574 |   105775 |         10 |
-| V2KIUZSj0 | ai-pdf        | myaidrive.com         |         75431 |    96768 |         28 |
-| 9PKhaweyb | mr-ranedeer   | mr-ranedeer.com       |         51945 |    66313 |         27 |
-| I1XNbsyDK | api-docs      | webpilot.ai           |         43287 |    50185 |         15 |
-| gFt1ghYJl | logo-creator  | Chase Lean            |         41831 |    48641 |         16 |
-| agCdZedbZ | ai-gpt        | Andrew Gao            |         45344 |    48298 |          6 |
-| tcmMldCYy | simpsonize-me | octaneai.com          |         43202 |    47353 |          9 |
+Latest visit data date: 2023-11-22
+Previous visit data date: 2023-11-20
 
 ## Top 10 Creators
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |
 |:----------------------|--------------:|---------:|-------:|-----------:|
-| ChatGPT               |       8377429 |  9380405 |     32 |         11 |
-| Canva                 |        186950 |   204772 |      2 |          9 |
-| mindgoblinstudios.com |        173663 |   200054 |     10 |         15 |
-| consensus.app         |         98147 |   134171 |      2 |         36 |
-| Pietro Schirano       |        116832 |   131940 |      4 |         12 |
-| myaidrive.com         |         75431 |    96768 |      2 |         28 |
-| webpilot.ai           |         68488 |    79524 |      5 |         16 |
-| mr-ranedeer.com       |         53659 |    69316 |      4 |         29 |
-| levels.io             |         58115 |    67255 |      8 |         15 |
-| Andrew Gao            |         57087 |    60908 |      4 |          6 |
+| ChatGPT               |       9380405 | 10356410 |     32 |         10 |
+| Canva                 |        204772 |   220896 |      2 |          7 |
+| mindgoblinstudios.com |        200054 |   220219 |     10 |         10 |
+| consensus.app         |        134171 |   157601 |      2 |         17 |
+| Pietro Schirano       |        131940 |   140910 |      4 |          6 |
+| myaidrive.com         |         96768 |   114049 |      2 |         17 |
+| webpilot.ai           |         79524 |    83800 |      6 |          5 |
+| mr-ranedeer.com       |         69316 |    80665 |      4 |         16 |
+| levels.io             |         67255 |    75920 |      8 |         12 |
+| DAINIS TKACOVS        |         30883 |    65836 |      2 |        113 |
 
 ## Fastest Growing Creators by Visits
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
 |:----------------------|--------------:|---------:|-------:|-----------:|---------:|
-| ChatGPT               |       8377429 |  9380405 |     32 |         11 |  1002976 |
-| consensus.app         |         98147 |   134171 |      2 |         36 |    36024 |
-| mindgoblinstudios.com |        173663 |   200054 |     10 |         15 |    26391 |
-| myaidrive.com         |         75431 |    96768 |      2 |         28 |    21337 |
-| askyourpdf.com        |         21430 |    41521 |      2 |         93 |    20091 |
+| ChatGPT               |       9380405 | 10356410 |     32 |         10 |   976005 |
+| DAINIS TKACOVS        |         30883 |    65836 |      2 |        113 |    34953 |
+| consensus.app         |        134171 |   157601 |      2 |         17 |    23430 |
+| askyourpdf.com        |         41521 |    62617 |      2 |         50 |    21096 |
+| mindgoblinstudios.com |        200054 |   220219 |     10 |         10 |    20165 |
 
 ## Fastest Growing Creators by Perc
 
 | Creator            |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
 |:-------------------|--------------:|---------:|-------:|-----------:|---------:|
-| Daniel Juhl        |             0 |     3346 |      1 |     334600 |     3346 |
-| gptsdex.com        |             0 |     2402 |      1 |     240200 |     2402 |
-| rsugrafx.com       |             0 |      944 |      1 |      94400 |      944 |
-| Moustafa Abdelnaby |             0 |      772 |      1 |      77200 |      772 |
-| Stefano Bargiacchi |             0 |      515 |      1 |      51500 |      515 |
+| rsugrafx.com       |           944 |     2711 |      2 |        186 |     1767 |
+| Uber               |           515 |     1356 |      2 |        162 |      841 |
+| gptsdex.com        |          2402 |     6101 |      2 |        153 |     3699 |
+| blueteamguides.com |           429 |      932 |      2 |        116 |      503 |
+| DAINIS TKACOVS     |         30883 |    65836 |      2 |        113 |    34953 |
 
 ## Top 5 New Creators
 
-| Creator            |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:-------------------|--------------:|---------:|-------:|-----------:|---------:|
-| Daniel Juhl        |             0 |     3346 |      1 |     334600 |     3346 |
-| gptsdex.com        |             0 |     2402 |      1 |     240200 |     2402 |
-| rsugrafx.com       |             0 |      944 |      1 |      94400 |      944 |
-| Moustafa Abdelnaby |             0 |      772 |      1 |      77200 |      772 |
-| Stefano Bargiacchi |             0 |      515 |      1 |      51500 |      515 |
+| Creator   | Prev_Visits   | Visits   | gpts   | perc_inc   | Growth   |
+|-----------|---------------|----------|--------|------------|----------|
+
+## Top 10 Custom GPTs
+
+| ID        | Slug                          | Creator               |   Prev_Visits |   Visits |   perc_inc |
+|:----------|:------------------------------|:----------------------|--------------:|---------:|-----------:|
+| alKfVrz9K | canva                         | Canva                 |        204772 |   220896 |          7 |
+| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |        146866 |   163957 |         11 |
+| bo0FiWLY7 | researchgpt                   | consensus.app         |        134171 |   157601 |         17 |
+| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |         96768 |   114049 |         17 |
+| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |        105775 |   111422 |          5 |
+| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |         66313 |    76005 |         14 |
+| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |         30883 |    65836 |        113 |
+| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |         41521 |    62617 |         50 |
+| gFt1ghYJl | logo-creator                  | Chase Lean            |         48641 |    54991 |         13 |
+| I1XNbsyDK | api-docs                      | webpilot.ai           |         50185 |    52279 |          4 |
+(ldm) 
