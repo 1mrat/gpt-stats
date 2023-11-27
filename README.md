@@ -2,73 +2,70 @@
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-Latest visit data date: 2023-11-24
-Previous visit data date: 2023-11-22
-
 ## Top 10 Creators
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |
 |:----------------------|--------------:|---------:|-------:|-----------:|
-| ChatGPT               |      10356410 | 11211226 |     16 |          8 |
-| Canva                 |        220896 |   236140 |      1 |          6 |
-| mindgoblinstudios.com |        220219 |   235800 |      5 |          7 |
-| consensus.app         |        157601 |   176551 |      1 |         12 |
-| Pietro Schirano       |        140910 |   151086 |      2 |          7 |
-| myaidrive.com         |        114049 |   128425 |      1 |         12 |
-| mr-ranedeer.com       |         80665 |    95492 |      2 |         18 |
-| DAINIS TKACOVS        |         65836 |    91417 |      1 |         38 |
-| webpilot.ai           |         83800 |    86406 |      3 |          3 |
-| levels.io             |         75920 |    81910 |      4 |          7 |
+| ChatGPT               |      11211226 | 11530022 |     16 |          2 |
+| mindgoblinstudios.com |        235800 |   244241 |      6 |          3 |
+| Canva                 |        236140 |   242375 |      1 |          2 |
+| consensus.app         |        176551 |   185575 |      1 |          5 |
+| Pietro Schirano       |        151086 |   154718 |      2 |          2 |
+| myaidrive.com         |        128425 |   138101 |      1 |          7 |
+| DAINIS TKACOVS        |         91417 |   101562 |      1 |         11 |
+| mr-ranedeer.com       |         95492 |   100205 |      2 |          4 |
+| webpilot.ai           |         86406 |    87235 |      3 |          0 |
+| levels.io             |         81910 |    83249 |      4 |          1 |
 
 ## Fastest Growing Creators by Visits
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
 |:----------------------|--------------:|---------:|-------:|-----------:|---------:|
-| ChatGPT               |      10356410 | 11211226 |     16 |          8 |   854816 |
-| DAINIS TKACOVS        |         65836 |    91417 |      1 |         38 |    25581 |
-| consensus.app         |        157601 |   176551 |      1 |         12 |    18950 |
-| mindgoblinstudios.com |        220219 |   235800 |      5 |          7 |    15581 |
-| Canva                 |        220896 |   236140 |      1 |          6 |    15244 |
+| ChatGPT               |      11211226 | 11530022 |     16 |          2 |   318796 |
+| DAINIS TKACOVS        |         91417 |   101562 |      1 |         11 |    10145 |
+| myaidrive.com         |        128425 |   138101 |      1 |          7 |     9676 |
+| consensus.app         |        176551 |   185575 |      1 |          5 |     9024 |
+| mindgoblinstudios.com |        235800 |   244241 |      6 |          3 |     8441 |
 
 ## Fastest Growing Creators by Perc
 
-| Creator                      |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:-----------------------------|--------------:|---------:|-------:|-----------:|---------:|
-| Kosch Klink Performance GmbH |             0 |      849 |      1 |      84900 |      849 |
-| gpt.hroid.top                |             0 |      679 |      1 |      67900 |      679 |
-| MEHMET GENCAY IŞIK           |             0 |      679 |      1 |      67900 |      679 |
-| Jan Oelze                    |             0 |      594 |      1 |      59400 |      594 |
-| rasard.com                   |             0 |      509 |      1 |      50900 |      509 |
+| Creator         |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:----------------|--------------:|---------:|-------:|-----------:|---------:|
+| Sahil Lavingia  |             0 |      509 |      1 |      50900 |      509 |
+| awesomegpts.ai  |             0 |      509 |      1 |      50900 |      509 |
+| Baran Atmanoglu |             0 |      508 |      1 |      50800 |      508 |
+| biztoc.com      |             0 |      424 |      1 |      42400 |      424 |
+| Amy Smith       |             0 |      424 |      1 |      42400 |      424 |
 
 ## Top 5 New Creators
 
-| Creator                      |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:-----------------------------|--------------:|---------:|-------:|-----------:|---------:|
-| Kosch Klink Performance GmbH |             0 |      849 |      1 |      84900 |      849 |
-| gpt.hroid.top                |             0 |      679 |      1 |      67900 |      679 |
-| MEHMET GENCAY IŞIK           |             0 |      679 |      1 |      67900 |      679 |
-| Jan Oelze                    |             0 |      594 |      1 |      59400 |      594 |
-| rasard.com                   |             0 |      509 |      1 |      50900 |      509 |
+| Creator         |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:----------------|--------------:|---------:|-------:|-----------:|---------:|
+| Sahil Lavingia  |             0 |      509 |      1 |      50900 |      509 |
+| awesomegpts.ai  |             0 |      509 |      1 |      50900 |      509 |
+| Baran Atmanoglu |             0 |      508 |      1 |      50800 |      508 |
+| biztoc.com      |             0 |      424 |      1 |      42400 |      424 |
+| Amy Smith       |             0 |      424 |      1 |      42400 |      424 |
 
 ## Top 10 Custom GPTs
 
-| ID        | Slug                          | Creator               |   Prev_Visits |   Visits |   perc_inc |
-|:----------|:------------------------------|:----------------------|--------------:|---------:|-----------:|
-| alKfVrz9K | canva                         | Canva                 |        220896 |   236140 |          6 |
-| bo0FiWLY7 | researchgpt                   | consensus.app         |        157601 |   176551 |         12 |
-| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |        163957 |   175450 |          7 |
-| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |        114049 |   128425 |         12 |
-| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |        111422 |   119086 |          6 |
-| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |         65836 |    91417 |         38 |
-| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |         76005 |    88956 |         17 |
-| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |         62617 |    71894 |         14 |
-| gFt1ghYJl | logo-creator                  | Chase Lean            |         54991 |    60518 |         10 |
-| I1XNbsyDK | api-docs                      | webpilot.ai           |         52279 |    53135 |          1 |
+| ID        | Slug                          | Creator               |   Visits |
+|:----------|:------------------------------|:----------------------|---------:|
+| alKfVrz9K | canva                         | Canva                 |   242375 |
+| bo0FiWLY7 | researchgpt                   | consensus.app         |   185575 |
+| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   181506 |
+| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   138101 |
+| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |   121400 |
+| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   101562 |
+| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |    93508 |
+| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |    75535 |
+| gFt1ghYJl | logo-creator                  | Chase Lean            |    62989 |
+| I1XNbsyDK | api-docs                      | webpilot.ai           |    53494 |
 
 ## 5 Most Popular New GPTs
 
-1. **[Youtube summarizer](https://chat.openai.com/g/g-kOkW7TuOA-youtube-summarizer)**: Summarizes key aspects of YouTube videos concisely. by _studyx.ai_
-2. **[Pawtrait creator](https://chat.openai.com/g/g-WYlcscE2T-pawtrait-creator)**: Creates cartoon pet portraits. Upload a photo of your pet, type its name, submit it, and watch the magic happen. by _rsugrafx.com_
-3. **[Seogpt by kkp](https://chat.openai.com/g/g-8KwGIRJhH-seogpt-by-kkp)**: Dein SEO-Assistent für deine täglichen SEO-Herausforderungen! by _Kosch Klink Performance GmbH_
-4. **[Phoneix ink](https://chat.openai.com/g/g-GJdH0BxMk-phoneix-ink)**: Will help you to write by _MEHMET GENCAY IŞIK_
-5. **[Duan shi pin jiao ben](https://chat.openai.com/g/g-87zN9yfMy-duan-shi-pin-jiao-ben)**: 针对产品售卖，结合产品信息，售卖对象，优惠信息等，自动生成短视频制作脚本 by _gpt.hroid.top_
+1. **[Breakdown Outline any Topic](https://chat.openai.com/g/g-bWpihiZ0d-breakdown-outline-any-topic)** (763.0 visits): Breaks down any topic into subtopics by _puzzle.today_
+2. **[The Minimalist Entrepreneur](https://chat.openai.com/g/g-RWu4oLlKL-the-minimalist-entrepreneur)** (509.0 visits): How to build a profitable software business with no full-time employees by _Sahil Lavingia_
+3. **[Scholar Gpt](https://chat.openai.com/g/g-kZ0eYXlJe-scholar-gpt)** (509.0 visits): A scholarly research assistant with knowledge from Google scholar and other academic resources. by _awesomegpts.ai_
+4. **[Pm Resume Reviewer](https://chat.openai.com/g/g-eZEuTRpBr-pm-resume-reviewer)** (508.0 visits): Enhanced PM resume feedback with industry insights. by _Baran Atmanoglu_
+5. **[Biztoc Official](https://chat.openai.com/g/g-6DYy5bwHv-biztoc-official)** (424.0 visits): The  latest business news from biztoc.com by _biztoc.com_
