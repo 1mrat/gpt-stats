@@ -64,3 +64,11 @@ Previous visit data date: 2023-11-22
 | UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |         62617 |    71894 |         14 |
 | gFt1ghYJl | logo-creator                  | Chase Lean            |         54991 |    60518 |         10 |
 | I1XNbsyDK | api-docs                      | webpilot.ai           |         52279 |    53135 |          1 |
+
+## 5 Most Popular New GPTs
+
+1. **[Youtube summarizer](https://chat.openai.com/g/g-kOkW7TuOA-youtube-summarizer)**: Summarizes key aspects of YouTube videos concisely. by _studyx.ai_
+2. **[Pawtrait creator](https://chat.openai.com/g/g-WYlcscE2T-pawtrait-creator)**: Creates cartoon pet portraits. Upload a photo of your pet, type its name, submit it, and watch the magic happen. by _rsugrafx.com_
+3. **[Seogpt by kkp](https://chat.openai.com/g/g-8KwGIRJhH-seogpt-by-kkp)**: Dein SEO-Assistent für deine täglichen SEO-Herausforderungen! by _Kosch Klink Performance GmbH_
+4. **[Phoneix ink](https://chat.openai.com/g/g-GJdH0BxMk-phoneix-ink)**: Will help you to write by _MEHMET GENCAY IŞIK_
+5. **[Duan shi pin jiao ben](https://chat.openai.com/g/g-87zN9yfMy-duan-shi-pin-jiao-ben)**: 针对产品售卖，结合产品信息，售卖对象，优惠信息等，自动生成短视频制作脚本 by _gpt.hroid.top_
