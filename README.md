@@ -2,73 +2,73 @@
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-Latest visit data date: 2023-11-26
-Previous visit data date: 2023-11-25
+Latest visit data date: 2023-11-27
+Previous visit data date: 2023-11-26
 
 ## Top 10 Creators
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |
 |:----------------------|--------------:|---------:|-------:|-----------:|
-| ChatGPT               |      11530022 | 11909997 |     16 |          3 |
-| mindgoblinstudios.com |        244241 |   251136 |      7 |          2 |
-| Canva                 |        242375 |   248931 |      1 |          2 |
-| consensus.app         |        185575 |   194367 |      1 |          4 |
-| Pietro Schirano       |        154718 |   158103 |      2 |          2 |
-| myaidrive.com         |        138101 |   144461 |      1 |          4 |
-| DAINIS TKACOVS        |        101562 |   107944 |      1 |          6 |
-| mr-ranedeer.com       |        100205 |   106164 |      2 |          5 |
-| webpilot.ai           |         87235 |    88118 |      3 |          1 |
-| levels.io             |         83249 |    84389 |      4 |          1 |
+| ChatGPT               |      11909997 | 12389750 |     16 |          4 |
+| mindgoblinstudios.com |        251136 |   259366 |      8 |          3 |
+| Canva                 |        248931 |   256664 |      1 |          3 |
+| consensus.app         |        194367 |   205769 |      1 |          5 |
+| Pietro Schirano       |        158103 |   162726 |      2 |          2 |
+| myaidrive.com         |        144461 |   154032 |      1 |          6 |
+| DAINIS TKACOVS        |        107944 |   115293 |      1 |          6 |
+| mr-ranedeer.com       |        106164 |   113436 |      2 |          6 |
+| webpilot.ai           |         88118 |    89467 |      3 |          1 |
+| levels.io             |         84389 |    89380 |      4 |          5 |
 
 ## Fastest Growing Creators by Visits
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
 |:----------------------|--------------:|---------:|-------:|-----------:|---------:|
-| ChatGPT               |      11530022 | 11909997 |     16 |          3 |   379975 |
-| consensus.app         |        185575 |   194367 |      1 |          4 |     8792 |
-| askyourpdf.com        |         75535 |    82694 |      1 |          9 |     7159 |
-| mindgoblinstudios.com |        244241 |   251136 |      7 |          2 |     6895 |
-| Canva                 |        242375 |   248931 |      1 |          2 |     6556 |
+| ChatGPT               |      11909997 | 12389750 |     16 |          4 |   479753 |
+| consensus.app         |        194367 |   205769 |      1 |          5 |    11402 |
+| myaidrive.com         |        144461 |   154032 |      1 |          6 |     9571 |
+| mindgoblinstudios.com |        251136 |   259366 |      8 |          3 |     8230 |
+| Canva                 |        248931 |   256664 |      1 |          3 |     7733 |
 
 ## Fastest Growing Creators by Perc
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| M. Zavia Martinez   |             0 |      847 |      1 |      84700 |      847 |
-| Yudiz Solutions Ltd |             0 |      508 |      1 |      50800 |      508 |
-| BRYAN HARRIS        |             0 |      508 |      1 |      50800 |      508 |
-| DENG GELEI          |             0 |      424 |      1 |      42400 |      424 |
-| fourthmind.ai       |             0 |      424 |      1 |      42400 |      424 |
+| Creator       |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:--------------|--------------:|---------:|-------:|-----------:|---------:|
+| taskforce.nl  |             0 |     1098 |      1 |     109800 |     1098 |
+| windchat.link |             0 |      844 |      1 |      84400 |      844 |
+| mckenna.cloud |             0 |      675 |      1 |      67500 |      675 |
+| ff c          |             0 |      591 |      1 |      59100 |      591 |
+| bounceban.com |             0 |      591 |      1 |      59100 |      591 |
 
 ## Top 5 New Creators
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| M. Zavia Martinez   |             0 |      847 |      1 |      84700 |      847 |
-| Yudiz Solutions Ltd |             0 |      508 |      1 |      50800 |      508 |
-| BRYAN HARRIS        |             0 |      508 |      1 |      50800 |      508 |
-| DENG GELEI          |             0 |      424 |      1 |      42400 |      424 |
-| fourthmind.ai       |             0 |      424 |      1 |      42400 |      424 |
+| Creator       |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:--------------|--------------:|---------:|-------:|-----------:|---------:|
+| taskforce.nl  |             0 |     1098 |      1 |     109800 |     1098 |
+| windchat.link |             0 |      844 |      1 |      84400 |      844 |
+| mckenna.cloud |             0 |      675 |      1 |      67500 |      675 |
+| ff c          |             0 |      591 |      1 |      59100 |      591 |
+| bounceban.com |             0 |      591 |      1 |      59100 |      591 |
 
 ## Top 10 Custom GPTs
 
-| ID        | Slug                          | Creator               |   Visits |
-|:----------|:------------------------------|:----------------------|---------:|
-| alKfVrz9K | canva                         | Canva                 |   248931 |
-| bo0FiWLY7 | researchgpt                   | consensus.app         |   194367 |
-| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   185979 |
-| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   144461 |
-| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |   123872 |
-| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   107944 |
-| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |    98115 |
-| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |    82694 |
-| gFt1ghYJl | logo-creator                  | Chase Lean            |    64478 |
-| hxDOCBQrs | paper-interpreter             | daichikonno.jp        |    54311 |
+| ID        | Slug                                  | Creator               |   Visits |
+|:----------|:--------------------------------------|:----------------------|---------:|
+| alKfVrz9K | canva                                 | Canva                 |   256664 |
+| bo0FiWLY7 | researchgpt                           | consensus.app         |   205769 |
+| n7Rs0IK86 | grimoire                              | mindgoblinstudios.com |   191001 |
+| V2KIUZSj0 | ai-pdf                                | myaidrive.com         |   154032 |
+| 2Eo3NxuS7 | designergpt                           | Pietro Schirano       |   125926 |
+| jCYeXl5xh | new-gpt-5                             | DAINIS TKACOVS        |   115293 |
+| 9PKhaweyb | mr-ranedeer                           | mr-ranedeer.com       |   104911 |
+| UfFxTDMxq | askyourpdf-research-assistant         | askyourpdf.com        |    88789 |
+| gFt1ghYJl | logo-creator                          | Chase Lean            |    66255 |
+| bZoD0qWT8 | the-secret-of-monkey-island-amsterdam | levels.io             |    56633 |
 
 ## 5 Most Popular New GPTs
 
-1. **[Corrector de textos](https://chat.openai.com/g/g-9ZYCloFVC-corrector-de-textos)** (847.0 visits): Niño sabiondo dedicado a la corrección de textos en español. Claridad y precisión son mi obsesión by _M. Zavia Martinez_
-2. **[Logo design wizard](https://chat.openai.com/g/g-OfG13AhZC-logo-design-wizard)** (593.0 visits): Expert in custom logo design and brand identity. For Shopify stores, blogs, startups, applications, etc. by _S. J_
-3. **[Evolution chamber](https://chat.openai.com/g/g-GhEwyi2R1-evolution-chamber)** (508.0 visits): Mutate your custom GPTs by building actions. OpenAPI schema generator custom tailored to GPTs. Ask for an app or api to connect to, or paste a URL to the docs.  v1.0 by _mindgoblinstudios.com_
-4. **[Openstorytelling plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)** (508.0 visits): AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More — www.OpenStorytelling.com by _BRYAN HARRIS_
-5. **[No slug](https://chat.openai.com/g/g-RWu4oLlKL-No Slug)** (508.0 visits): How to build a profitable software business with no full-time employees by _Sahil Lavingia_
+1. **[G ads script builder taskforce agency](https://chat.openai.com/g/g-SmyRAwWHi-g-ads-script-builder-taskforce-agency)** (1098.0 visits): Building Google Ads scripts made easier by _taskforce.nl_
+2. **[Tailwindcss builder windchat](https://chat.openai.com/g/g-hrRKy1YYK-tailwindcss-builder-windchat)** (844.0 visits): Write tailwindcss and HTML code for you. This tool is designed for integrated use with https://windchat.com . by _windchat.link_
+3. **[Executive f x n](https://chat.openai.com/g/g-H93fevKeK-executive-f-x-n)** (760.0 visits): Flow on Demand. Plan, Take Action (for real this time), Stay Consistent, and Accomplish your Dreams. Step by Step. Executive Function, ADHD Button & Motivation Starter kit.  The highest quality tokens to train your meat neural net. v1.0 by _mindgoblinstudios.com_
+4. **[Oracle of omaha](https://chat.openai.com/g/g-K8ciXgR8w-oracle-of-omaha)** (675.0 visits): I offer investment wisdom with a side of Munger humor. by _mckenna.cloud_
+5. **[Chan pin xu qiu fen xi shi](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi)** (591.0 visits): 我是产品需求分析师，从确定目标用户开始，深入到收集并分析用户痛点，并设计产品功能。通过对用户特征的深入分析，确保产品设计始终围绕真实用户的需求。不仅收集用户痛点，还对其进行多维度分析，确保产品功能设计能解决真实问题。 by _ff c_
