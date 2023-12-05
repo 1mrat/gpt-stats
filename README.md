@@ -2,73 +2,73 @@
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-Latest visit data date: 2023-12-01
-Previous visit data date: 2023-11-30
+Latest visit data date: 2023-12-02
+Previous visit data date: 2023-12-01
 
 ## Top 10 Creators
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |
 |:----------------------|--------------:|---------:|-------:|-----------:|
-| ChatGPT               |      13831894 | 14257803 |     16 |          3 |
-| mindgoblinstudios.com |        304794 |   317025 |      8 |          4 |
-| Canva                 |        282993 |   291349 |      1 |          2 |
-| consensus.app         |        241230 |   249083 |      1 |          3 |
-| myaidrive.com         |        188439 |   194566 |      1 |          3 |
-| Pietro Schirano       |        179002 |   183225 |      2 |          2 |
-| DAINIS TKACOVS        |        147177 |   152551 |      1 |          3 |
-| mr-ranedeer.com       |        137151 |   143215 |      2 |          4 |
-| askyourpdf.com        |        110258 |   116706 |      1 |          5 |
-| webpilot.ai           |         94638 |    96697 |      3 |          2 |
+| ChatGPT               |      14257803 | 14626333 |     16 |          2 |
+| mindgoblinstudios.com |        317025 |   327233 |      8 |          3 |
+| Canva                 |        291349 |   293894 |      1 |          0 |
+| consensus.app         |        249083 |   259890 |      1 |          4 |
+| myaidrive.com         |        194566 |   205269 |      1 |          5 |
+| Pietro Schirano       |        183225 |   185817 |      2 |          1 |
+| DAINIS TKACOVS        |        152551 |   157381 |      1 |          3 |
+| mr-ranedeer.com       |        143215 |   150149 |      2 |          4 |
+| askyourpdf.com        |        116706 |   119054 |      1 |          2 |
+| webpilot.ai           |         96697 |    97358 |      3 |          0 |
 
 ## Fastest Growing Creators by Visits
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
 |:----------------------|--------------:|---------:|-------:|-----------:|---------:|
-| ChatGPT               |      13831894 | 14257803 |     16 |          3 |   425909 |
-| mindgoblinstudios.com |        304794 |   317025 |      8 |          4 |    12231 |
-| Canva                 |        282993 |   291349 |      1 |          2 |     8356 |
-| consensus.app         |        241230 |   249083 |      1 |          3 |     7853 |
-| askyourpdf.com        |        110258 |   116706 |      1 |          5 |     6448 |
+| ChatGPT               |      14257803 | 14626333 |     16 |          2 |   368530 |
+| consensus.app         |        249083 |   259890 |      1 |          4 |    10807 |
+| myaidrive.com         |        194566 |   205269 |      1 |          5 |    10703 |
+| abdullah alenazy      |             0 |    10475 |      1 |    1047500 |    10475 |
+| mindgoblinstudios.com |        317025 |   327233 |      8 |          3 |    10208 |
 
 ## Fastest Growing Creators by Perc
 
-| Creator        |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:---------------|--------------:|---------:|-------:|-----------:|---------:|
-| photoai.com    |             0 |     4085 |      1 |     408500 |     4085 |
-| writesonic.com |             0 |     2501 |      1 |     250100 |     2501 |
-| every.to       |             0 |     1667 |      1 |     166700 |     1667 |
-| healthfully.ai |             0 |     1500 |      1 |     150000 |     1500 |
-| LJ D Eads      |             0 |      583 |      1 |      58300 |      583 |
+| Creator          |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:-----------------|--------------:|---------:|-------:|-----------:|---------:|
+| abdullah alenazy |             0 |    10475 |      1 |    1047500 |    10475 |
+| Nodefy           |             0 |     2411 |      1 |     241100 |     2411 |
+| SORA SHIMIZU     |             0 |     1912 |      1 |     191200 |     1912 |
+| F Haarman        |             0 |     1829 |      1 |     182900 |     1829 |
+| Iraz K Tejani    |             0 |      832 |      1 |      83200 |      832 |
 
 ## Top 5 New Creators
 
-| Creator        |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:---------------|--------------:|---------:|-------:|-----------:|---------:|
-| photoai.com    |             0 |     4085 |      1 |     408500 |     4085 |
-| writesonic.com |             0 |     2501 |      1 |     250100 |     2501 |
-| every.to       |             0 |     1667 |      1 |     166700 |     1667 |
-| healthfully.ai |             0 |     1500 |      1 |     150000 |     1500 |
-| LJ D Eads      |             0 |      583 |      1 |      58300 |      583 |
+| Creator          |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:-----------------|--------------:|---------:|-------:|-----------:|---------:|
+| abdullah alenazy |             0 |    10475 |      1 |    1047500 |    10475 |
+| Nodefy           |             0 |     2411 |      1 |     241100 |     2411 |
+| SORA SHIMIZU     |             0 |     1912 |      1 |     191200 |     1912 |
+| F Haarman        |             0 |     1829 |      1 |     182900 |     1829 |
+| Iraz K Tejani    |             0 |      832 |      1 |      83200 |      832 |
 
 ## Top 10 Custom GPTs
 
 | ID        | Slug                          | Creator               |   Visits |
 |:----------|:------------------------------|:----------------------|---------:|
-| alKfVrz9K | canva                         | Canva                 |   291349 |
-| bo0FiWLY7 | researchgpt                   | consensus.app         |   249083 |
-| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   240666 |
-| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   194566 |
-| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   152551 |
-| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |   141045 |
-| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |   132294 |
-| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |   116706 |
-| gFt1ghYJl | logo-creator                  | Chase Lean            |    73857 |
-| L2HknCZTC | scholarai                     | scholarai.io          |    61185 |
+| alKfVrz9K | canva                         | Canva                 |   293894 |
+| bo0FiWLY7 | researchgpt                   | consensus.app         |   259890 |
+| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   249333 |
+| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   205269 |
+| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   157381 |
+| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |   143332 |
+| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |   137179 |
+| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |   119054 |
+| gFt1ghYJl | logo-creator                  | Chase Lean            |    75573 |
+| L2HknCZTC | scholarai                     | scholarai.io          |    63102 |
 
 ## 5 Most Popular New GPTs
 
-1. **[Brick box generator](https://chat.openai.com/g/g-Xce18FwVX-brick-box-generator)** (4085.0 visits): Generate brick toy boxes for anything you can think of. Type what you want to see, for example Elon Musk or SpaceX or Amsterdam. Unofficial parody. by _photoai.com_
-2. **[Seo gpt by writesonic](https://chat.openai.com/g/g-jfDEwfsrT-seo-gpt-by-writesonic)** (2501.0 visits): Expert in Writesonic's SEO Score Checker API: Guide for SEO Analysis, Score Checking, and Keyword Insights. by _writesonic.com_
-3. **[Founder s friend](https://chat.openai.com/g/g-QhbhYo1Tb-founder-s-friend)** (1667.0 visits): Talk to me about the problems you can't share with investors, customers, or employees. Most helpful when you use ChatGPT's voice feature! by _every.to_
-4. **[The primal diet by aajonus vonderplanitz](https://chat.openai.com/g/g-plWk4S53O-the-primal-diet-by-aajonus-vonderplanitz)** (1500.0 visits): Expert on Aajonus, answers based on all his texts by _healthfully.ai_
-5. **[Wu lin mi chuan jiang hu tan xian secrets of martial arts](https://chat.openai.com/g/g-1qBbVvF0T-wu-lin-mi-chuan-jiang-hu-tan-xian-secrets-of-martial-arts)** (1500.0 visits): 踏上神奇江湖之旅，寻找传说中的武林典籍《道心种魔大法》Text-based Game: Embark on a magical journey through the Jianghu to find the legendary martial arts book. by _gptfinder.co_
+1. **[Image Generator Tool](https://chat.openai.com/g/g-Ax3BWIz0M-Image-Generator-Tool)** (10475.0 visits): A creative assistant for generating and refining images by _abdullah alenazy_
+2. **[Box generator](https://chat.openai.com/g/g-Xce18FwVX-box-generator)** (4988.0 visits): Generate brick toy boxes for anything you can think of. Type what you want to see, for example Elon Musk or SpaceX or Amsterdam. Unofficial parody. by _photoai.com_
+3. **[Rijmpiet](https://chat.openai.com/g/g-GWScFjDof-rijmpiet)** (2411.0 visits): Ik maak traditionele Sinterklaasgedichten met een humoristische en persoonlijke inslag. by _Nodefy_
+4. **[Pixelart sprites creator](https://chat.openai.com/g/g-j2SiQ1crr-pixelart-sprites-creator)** (1912.0 visits): ドット絵の画像素材を全自動で生成する。 by _SORA SHIMIZU_
+5. **[Gpt detector](https://chat.openai.com/g/g-wxGvX1Q5P-gpt-detector)** (1829.0 visits): ChatGPT Detector can identify text generated by a wide range of large language models, including ChatGPT, Bard, and GPT-4. It is a fast and easy-to-use ! by _F Haarman_
