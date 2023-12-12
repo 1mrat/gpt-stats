@@ -2,73 +2,73 @@
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-Latest visit data date: 2023-12-04
-Previous visit data date: 2023-12-02
+Latest visit data date: 2023-12-10
+Previous visit data date: 2023-12-04
 
 ## Top 10 Creators
 
 | Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |
 |:----------------------|--------------:|---------:|-------:|-----------:|
-| ChatGPT               |      14626333 | 15569878 |     16 |          6 |
-| mindgoblinstudios.com |        327233 |   347608 |      8 |          6 |
-| Canva                 |        293894 |   303200 |      1 |          3 |
-| consensus.app         |        259890 |   283074 |      1 |          8 |
-| myaidrive.com         |        205269 |   224864 |      1 |          9 |
-| Pietro Schirano       |        185817 |   190686 |      2 |          2 |
-| DAINIS TKACOVS        |        157381 |   175965 |      1 |         11 |
-| mr-ranedeer.com       |        150149 |   161330 |      2 |          7 |
-| askyourpdf.com        |        119054 |   131143 |      1 |         10 |
-| webpilot.ai           |         97358 |   102122 |      3 |          4 |
+| ChatGPT               |      15569878 | 15034821 |     16 |         -3 |
+| consensus.app         |        283074 |   365828 |      1 |         29 |
+| mindgoblinstudios.com |        347608 |   361274 |      8 |          3 |
+| myaidrive.com         |        224864 |   280922 |      1 |         24 |
+| Canva                 |        303200 |   277328 |      1 |         -8 |
+| DAINIS TKACOVS        |        175965 |   236233 |      1 |         34 |
+| Pietro Schirano       |        190686 |   188831 |      2 |          0 |
+| mr-ranedeer.com       |        161330 |   182258 |      2 |         12 |
+| askyourpdf.com        |        131143 |   167011 |      1 |         27 |
+| NAIF J ALOTAIBI       |         12889 |   135379 |      3 |        950 |
 
 ## Fastest Growing Creators by Visits
 
-| Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:----------------------|--------------:|---------:|-------:|-----------:|---------:|
-| ChatGPT               |      14626333 | 15569878 |     16 |          6 |   943545 |
-| abdullah alenazy      |         10475 |    54553 |      1 |        420 |    44078 |
-| consensus.app         |        259890 |   283074 |      1 |          8 |    23184 |
-| mindgoblinstudios.com |        327233 |   347608 |      8 |          6 |    20375 |
-| myaidrive.com         |        205269 |   224864 |      1 |          9 |    19595 |
+| Creator          |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:-----------------|--------------:|---------:|-------:|-----------:|---------:|
+| NAIF J ALOTAIBI  |         12889 |   135379 |      3 |        950 |   122490 |
+| consensus.app    |        283074 |   365828 |      1 |         29 |    82754 |
+| DAINIS TKACOVS   |        175965 |   236233 |      1 |         34 |    60268 |
+| Johnetta Kovacek |          4740 |    63528 |      5 |       1238 |    58788 |
+| myaidrive.com    |        224864 |   280922 |      1 |         24 |    56058 |
 
 ## Fastest Growing Creators by Perc
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| aitextconverter.com |             0 |    11310 |      1 |    1131000 |    11310 |
-| xghozt.com          |             0 |     5988 |      1 |     598800 |     5988 |
-| cybernewsgpt.com    |             0 |     2412 |      1 |     241200 |     2412 |
-| accessgpts.com      |             0 |     1497 |      1 |     149700 |     1497 |
-| Sami Salem          |             0 |     1331 |      1 |     133100 |     1331 |
+| Creator              |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:---------------------|--------------:|---------:|-------:|-----------:|---------:|
+| North Pole           |             0 |     5696 |      1 |     569600 |     5696 |
+| @mentor.ia.digital   |             0 |     4907 |      1 |     490700 |     4907 |
+| artificialcorner.com |             0 |     2716 |      1 |     271600 |     2716 |
+| jiaxin liu           |             0 |     1752 |      1 |     175200 |     1752 |
+| Kaspars Dancis       |             0 |     1402 |      1 |     140200 |     1402 |
 
 ## Top 5 New Creators
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| aitextconverter.com |             0 |    11310 |      1 |    1131000 |    11310 |
-| xghozt.com          |             0 |     5988 |      1 |     598800 |     5988 |
-| cybernewsgpt.com    |             0 |     2412 |      1 |     241200 |     2412 |
-| accessgpts.com      |             0 |     1497 |      1 |     149700 |     1497 |
-| Sami Salem          |             0 |     1331 |      1 |     133100 |     1331 |
+| Creator              |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:---------------------|--------------:|---------:|-------:|-----------:|---------:|
+| North Pole           |             0 |     5696 |      1 |     569600 |     5696 |
+| @mentor.ia.digital   |             0 |     4907 |      1 |     490700 |     4907 |
+| artificialcorner.com |             0 |     2716 |      1 |     271600 |     2716 |
+| jiaxin liu           |             0 |     1752 |      1 |     175200 |     1752 |
+| cartbuddygpt.com     |             0 |     1489 |      2 |      74450 |     1489 |
 
 ## Top 10 Custom GPTs
 
 | ID        | Slug                          | Creator               |   Visits |
 |:----------|:------------------------------|:----------------------|---------:|
-| alKfVrz9K | canva                         | Canva                 |   303200 |
-| bo0FiWLY7 | researchgpt                   | consensus.app         |   283074 |
-| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   267859 |
-| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   224864 |
-| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   175965 |
-| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |   147359 |
-| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |   147276 |
-| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |   131143 |
-| gFt1ghYJl | logo-creator                  | Chase Lean            |    78920 |
-| L2HknCZTC | scholarai                     | scholarai.io          |    66445 |
+| bo0FiWLY7 | researchgpt                   | consensus.app         |   365828 |
+| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   281360 |
+| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   280922 |
+| alKfVrz9K | canva                         | Canva                 |   277328 |
+| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   236233 |
+| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |   167011 |
+| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |   166135 |
+| 2Eo3NxuS7 | designergpt                   | Pietro Schirano       |   138710 |
+| pmuQfob8d | image-generator               | NAIF J ALOTAIBI       |   115663 |
+| gFt1ghYJl | logo-creator                  | Chase Lean            |    88762 |
 
 ## 5 Most Popular New GPTs
 
-1. **[Humanize ai](https://chat.openai.com/g/g-aqaUhz49a-humanize-ai)** (11310.0 visits): Humanize AI text is a free AI Text converter tool developed by aitextconverter.com that can convert AI generated text to human-like text. by _aitextconverter.com_
-2. **[Topjourney](https://chat.openai.com/g/g-MD9ZplW7q-topjourney)** (8732.0 visits): AI chatbot for image creation by _Josh Brent N. Villocido_
-3. **[Lazy bot](https://chat.openai.com/g/g-bstMfsHSW-lazy-bot)** (5988.0 visits): The laziest AI around, it doesn't care about you. by _xghozt.com_
-4. **[Chat ai gpt](https://chat.openai.com/g/g-Sw1S0G0kM-chat-ai-gpt)** (4241.0 visits): Expert in AI-generated text and SEO optimization.chat ai gpt by _NAIF J ALOTAIBI_
-5. **[Math ai](https://chat.openai.com/g/g-2OyX2ZiUk-math-ai)** (2744.0 visits): Explore Math AI: Your advanced AI-powered guide for solving complex math problems. Ideal for students and educators, it offers step-by-step solutions, clear theorem explanations, and practical applications. Embrace a smarter way to learn and teach math with Math AI! by _gptfinder.co_
+1. **[Espaol chat gpt](https://chat.openai.com/g/g-VLI1wyeZg-espaol-chat-gpt)** (45302.0 visits): ChatGPT en español oficial by _Johnetta Kovacek_
+2. **[Logo maker](https://chat.openai.com/g/g-Mc4XM2MQP-logo-maker)** (18663.0 visits): Makes you a professional high quality PNG for your business by _Andrew Gao_
+3. **[Rank math seo optimized content writer](https://chat.openai.com/g/g-dd2qWCtR6-rank-math-seo-optimized-content-writer)** (10340.0 visits): This Prompt generates a 100% Rank Math SEO-optimized article. It optimizes "Basic SEO", "Additional SEO" and "Title Readability" which are suggested by Rank Math. by _Muhammad Talha_
+4. **[Alex hormozi gpt](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gpt)** (7886.0 visits): The only business coach you will ever need: Craft 100M Dollar Offers & Kickstart Your Business with 100M Dollar Lead Advice by _yannick van draanen_
+5. **[Chat gpt](https://chat.openai.com/g/g-IkXqSNDwI-chat-gpt)** (6660.0 visits): ChatGPT  官方中文版本 by _Johnetta Kovacek_
