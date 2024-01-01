@@ -1,74 +1,81 @@
 # GPT Stats
+
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-Latest visit data date: 2023-12-15
-Previous visit data date: 2023-12-13
+## 1 Jan 2014 Update
+
+Its been a while since i updated the gpt stats here. 10 days exactly.
+
+Quit useful as it gives you a view of changes over the period.
+
+Latest visit data date: 2023-12-29
+Previous visit data date: 2023-12-19
 
 ## Top 10 Creators
 
-| Creator               |   Prev_Visits |   Visits |   gpts |   perc_inc |
-|:----------------------|--------------:|---------:|-------:|-----------:|
-| ChatGPT               |      14386420 | 14219408 |     16 |         -1 |
-| consensus.app         |        404506 |   354746 |      1 |        -12 |
-| mindgoblinstudios.com |        329109 |   317438 |      9 |         -3 |
-| DAINIS TKACOVS        |        277432 |   306183 |      1 |         10 |
-| myaidrive.com         |        287043 |   280305 |      1 |         -2 |
-| NAIF J ALOTAIBI       |        187836 |   214194 |      3 |         14 |
-| Johnetta Kovacek      |        145506 |   188406 |      5 |         29 |
-| askyourpdf.com        |        180515 |   186014 |      1 |          3 |
-| Canva                 |        208823 |   183711 |      1 |        -12 |
-| mr-ranedeer.com       |        172666 |   161820 |      2 |         -6 |
+| Creator                |   Prev_Visits |   Visits |   gpts |   perc_inc |
+|:-----------------------|--------------:|---------:|-------:|-----------:|
+| ChatGPT                |      14461557 | 14693407 |     18 |          1 |
+| Johnetta Kovacek       |        291693 |   517557 |      9 |         77 |
+| NAIF J ALOTAIBI        |        256686 |   393040 |      4 |         53 |
+| DAINIS TKACOVS         |        306128 |   336974 |      1 |         10 |
+| consensus.app          |        336804 |   311437 |      1 |         -7 |
+| mindgoblinstudios.com  |        310186 |   268137 |      9 |        -13 |
+| myaidrive.com          |        275542 |   244811 |      1 |        -11 |
+| askyourpdf.com         |        166733 |   139013 |      1 |        -16 |
+| North Pole             |         84810 |   134886 |      1 |         59 |
+| plagiarism-remover.com |         89953 |   117221 |      1 |         30 |
 
 ## Fastest Growing Creators by Visits
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| Johnetta Kovacek    |        145506 |   188406 |      5 |         29 |    42900 |
-| DAINIS TKACOVS      |        277432 |   306183 |      1 |         10 |    28751 |
-| NAIF J ALOTAIBI     |        187836 |   214194 |      3 |         14 |    26358 |
-| North Pole          |         38361 |    53969 |      1 |         40 |    15608 |
-| aitextconverter.com |         64993 |    74973 |      1 |         15 |     9980 |
+| Creator          |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:-----------------|--------------:|---------:|-------:|-----------:|---------:|
+| ChatGPT          |      14461557 | 14693407 |     18 |          1 |   231850 |
+| Johnetta Kovacek |        291693 |   517557 |      9 |         77 |   225864 |
+| NAIF J ALOTAIBI  |        256686 |   393040 |      4 |         53 |   136354 |
+| North Pole       |         84810 |   134886 |      1 |         59 |    50076 |
+| DAINIS TKACOVS   |        306128 |   336974 |      1 |         10 |    30846 |
 
 ## Fastest Growing Creators by Perc
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| bestgpts.xyz        |             0 |     1241 |      1 |     124100 |     1241 |
-| Roys                |             0 |     1152 |      1 |     115200 |     1152 |
-| Michael Pedersen    |             0 |      974 |      1 |      97400 |      974 |
-| Håkan Kjellerstrand |             0 |      798 |      1 |      79800 |      798 |
-| ailemonacademy.com  |             0 |      798 |      1 |      79800 |      798 |
+| Creator            |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:-------------------|--------------:|---------:|-------:|-----------:|---------:|
+| disneyaiavatar.com |             0 |     3072 |      1 |     307200 |     3072 |
+| mizine.de          |             0 |     2784 |      1 |     278400 |     2784 |
+| 6hive.ee           |             0 |     2688 |      1 |     268800 |     2688 |
+| lucid.co           |             0 |     2112 |      1 |     211200 |     2112 |
+| 임승원             |             0 |     1728 |      1 |     172800 |     1728 |
 
 ## Top 5 New Creators
 
-| Creator             |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
-|:--------------------|--------------:|---------:|-------:|-----------:|---------:|
-| myaiadvantage.com   |             0 |     1771 |      3 |      59033 |     1771 |
-| bestgpts.xyz        |             0 |     1241 |      1 |     124100 |     1241 |
-| Roys                |             0 |     1152 |      1 |     115200 |     1152 |
-| Michael Pedersen    |             0 |      974 |      1 |      97400 |      974 |
-| Håkan Kjellerstrand |             0 |      798 |      1 |      79800 |      798 |
+| Creator            |   Prev_Visits |   Visits |   gpts |   perc_inc |   Growth |
+|:-------------------|--------------:|---------:|-------:|-----------:|---------:|
+| hix.ai             |             0 |     7392 |      6 |     123200 |     7392 |
+| Internethandel     |             0 |     4896 |      7 |      69942 |     4896 |
+| Wes Frank          |             0 |     4512 |      4 |     112800 |     4512 |
+| disneyaiavatar.com |             0 |     3072 |      1 |     307200 |     3072 |
+| mizine.de          |             0 |     2784 |      1 |     278400 |     2784 |
 
 ## Top 10 Custom GPTs
 
-| ID        | Slug                          | Creator               |   Visits |
-|:----------|:------------------------------|:----------------------|---------:|
-| bo0FiWLY7 | researchgpt                   | consensus.app         |   354746 |
-| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS        |   306183 |
-| V2KIUZSj0 | ai-pdf                        | myaidrive.com         |   280305 |
-| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com |   260898 |
-| pmuQfob8d | image-generator               | NAIF J ALOTAIBI       |   192483 |
-| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com        |   186014 |
-| alKfVrz9K | canva                         | Canva                 |   183711 |
-| 9PKhaweyb | mr-ranedeer                   | mr-ranedeer.com       |   145248 |
-| NgAcklHd8 | researchgpt-official          | researchgpt.com       |    96153 |
-| VLI1wyeZg | espaol-chat-gpt               | Johnetta Kovacek      |    93051 |
+| ID        | Slug                          | Creator                |   Visits |
+|:----------|:------------------------------|:-----------------------|---------:|
+| pmuQfob8d | image-generator               | NAIF J ALOTAIBI        |   368271 |
+| jCYeXl5xh | new-gpt-5                     | DAINIS TKACOVS         |   336974 |
+| bo0FiWLY7 | researchgpt                   | consensus.app          |   311437 |
+| 2PldCK28L | chatgpt                       | Johnetta Kovacek       |   289356 |
+| V2KIUZSj0 | ai-pdf                        | myaidrive.com          |   244811 |
+| n7Rs0IK86 | grimoire                      | mindgoblinstudios.com  |   234249 |
+| VLI1wyeZg | espaol-chat-gpt               | Johnetta Kovacek       |   175687 |
+| UfFxTDMxq | askyourpdf-research-assistant | askyourpdf.com         |   139013 |
+| 84tjozO5q | santa                         | North Pole             |   134886 |
+| aqaUhz49a | humanize-ai                   | plagiarism-remover.com |   117221 |
 
 ## 5 Most Popular New GPTs
 
-1. **[Prompt pet](https://chat.openai.com/g/g-N9d6Prmjs-prompt-pet)** (9571.0 visits): 一个主动懂你，会帮你写Prompt的仓鼠精灵。 by _richcatai.com_
-2. **[超级提示词生成器](https://chat.openai.com/g/g-cHwtJ6Ovn)** (1241.0 visits): 输入想让GPT扮演的角色即可，也可说明下相关的背景信息 by _bestgpts.xyz_
-3. **[Cartoonize me  photo to cartoon  character maker](https://chat.openai.com/g/g-6XolCY95X-cartoonize-me--photo-to-cartoon--character-maker)** (1152.0 visits): I turn your photo into a fun cartoon! Cartoonize yourself with this GPT. Make any character from your Photo. I am a Photo to Cartoon Maker. by _x.jackculpan.com_
-4. **[Physics tutor](https://chat.openai.com/g/g-mY0OUrZah-physics-tutor)** (1152.0 visits): Explaining Physics with Clarity and Insight by _Roys_
-5. **[Academic assistant pro](https://chat.openai.com/g/g-Ej5zYQRIB-academic-assistant-pro)** (1064.0 visits): Professional academic assistant with a professorial touch by _Kevin Ivery_
+1. **[Chat gpt](https://chat.openai.com/g/g-AfoapwDgy-chat-gpt)** (16897.0 visits): ChatGPT 官方繁體中文版本 by _Johnetta Kovacek_
+2. **[Gpt store](https://chat.openai.com/g/g-P6MdNuLzH-gpt-store)** (15169.0 visits): Discover the best Custom GPT at OpenAI's GPT Store by _NAIF J ALOTAIBI_
+3. **[Death calculator](https://chat.openai.com/g/g-mb0Rc4uR5-death-calculator)** (8640.0 visits): Find your expiration date by _Carlton Douglas_
+4. **[Automated blog post writer](https://chat.openai.com/g/g-82ALdp8Nj-automated-blog-post-writer)** (3360.0 visits): I craft professionally written, and researched, blog posts in your unique voice. by _octaneai.com_
+5. **[Ai drawing generator](https://chat.openai.com/g/g-XLibUCa3f-ai-drawing-generator)** (3072.0 visits): AI Image Generator Free Online & Generate Detailed Images From Scribbled Drawings by _disneyaiavatar.com_
