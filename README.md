@@ -1,7 +1,6 @@
 # GPT Stats
 
-This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
-Initially ill try and post a file a day.
+This includes csv files with stats for Custom Chat GPTs not created by OpenAI. Its good to see [people building on my GPT Stats](./tools.md). If you want your tool/site listed, please submit an PR to `tools.md` page.
 
 ## 1 Jan 2014 Update
 
