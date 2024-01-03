@@ -13,4 +13,9 @@ GPT Search is created by [Casssapir](https://github.com/casssapir). Its a free p
 - GPT - https://chat.openai.com/g/g-ob52WcUXC
 - Repo with CSV - https://github.com/casssapir/gpt-list
 
+## MyGPTs
+
+Create by (savokiss)[https://github.com/savokiss]
+
+https://mygpts.dev/popular
 
