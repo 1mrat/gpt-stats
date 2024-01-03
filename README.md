@@ -3,7 +3,7 @@
 This includes csv files with stats for Custom Chat GPTs not created by OpenAI.
 Initially ill try and post a file a day.
 
-## 1 Jan 2014 Update
+## 1 Jan 2024 Update
 
 Its been a while since i updated the gpt stats here. 10 days exactly.
 
