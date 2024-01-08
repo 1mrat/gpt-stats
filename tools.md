@@ -19,3 +19,10 @@ Create by (savokiss)[https://github.com/savokiss]
 
 https://mygpts.dev/popular
 
+## Gipeties
+
+[Gipeties](https://gipeties.com) has been created by [Ed Tee](https://github.com/etewiah). As well as allowing anyone to create their own collection of GPTs, gipeties.com shows a graph with data from the gpt-stats repo
+for every custom GPTs that has data:
+
+[https://gipeties.com/popular/by-visits](https://gipeties.com/popular/by-visits)
+
